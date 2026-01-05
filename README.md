@@ -28,10 +28,10 @@ The focus is on:
 (Reasoning, not execution)
 
 <details>
-<summary>⚠️ Optional spoiler section (abstracted)</summary>
+<summary>⚠️ Actions taken and results found. SPOILER SECTION!!! Do not uncollapse when still on the CTF-challenge! </summary>
 
-High-level observations and lessons learned.
-No actionable steps.
+Observations and lessons learned.
+May include actionable steps.
 
 </details>
 
