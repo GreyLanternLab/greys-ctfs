@@ -27,6 +27,7 @@ The focus is on:
 ## Methodology
 (Reasoning, not execution)
 
+## Actions & Results
 <details>
 <summary>⚠️ Actions taken and results found. SPOILER SECTION!!! Do not uncollapse when still on the CTF-challenge! </summary>
 
